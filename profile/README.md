@@ -28,3 +28,4 @@ Let this project mature some more before adding your own contributions, however 
 - [ ] 100% Test Coverage, unless accompanied by a valid explanation as to why thats not possible
 - [ ] Change log updated
 - [ ] SemVer versioning followed
+- [ ] Any API's must be documented in github pages
