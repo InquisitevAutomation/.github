@@ -24,3 +24,7 @@ then you will be able to use the web app or the mobile apps to communicate with 
 ## Contribution Guidelines
 Let this project mature some more before adding your own contributions, however if you know what you want.. make a PR!
 
+### General requirements
+- [ ] 100% Test Coverage, unless accompanied by a valid explanation as to why thats not possible
+- [ ] Change log updated
+- [ ] SemVer versioning followed
